@@ -2,7 +2,7 @@ import './styles.css'
 
 document.querySelector('#app').innerHTML = `
   <main class="page">
-    <h1>Hello, hello!</h1>
+    <h1>Hello, world!</h1>
     <p>I'm Mehedi Marof.</p>
     <p>
       This is my starter site for JOUR 628T, where I am beginning to work with
